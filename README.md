@@ -1,4 +1,4 @@
-### Premium Partners
+### Commands to build project
 
 - **laravel new project-name or composer create-project laravel/laravel your-project-name**
 - **cd project-folder**
